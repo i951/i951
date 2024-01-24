@@ -1,6 +1,4 @@
-### Hi there 👋 
-
-<!-- Visit my [website](https://i951.github.io/ "i951's Portfolio").
+### Hi there 👋 Link to my [portfolio](https://i951.github.io/ "i951's Portfolio").
 
 <!--
 **i951/i951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
